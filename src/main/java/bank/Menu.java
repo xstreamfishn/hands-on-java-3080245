@@ -10,7 +10,7 @@ public class Menu {
  
   private Scanner scanner;
 
-  public static void main(String args){
+  public static void main(String[] args){
     System.out.println("Welcome to Jimmy Bank Int.");
 
     Menu menu = new Menu();
